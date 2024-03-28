@@ -22,9 +22,9 @@ title: Birkir Fanndal Sturluson
 email: s232729@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
   Here you can find some of the projects I'm working on at DTU.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/birkirfanndal.github.io/" # the subpath of your site, e.g. /blog
 url: "https://birkirfanndal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-instagram_username: birkirfanndal
+twitter_username: birkirfanndal
 github_username:  birkirfanndal
 
 # Build settings

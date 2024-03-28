@@ -4,4 +4,6 @@ title:  "Sæll vinur"
 date:   2024-03-28 20:39:00 +0000
 categories: jekyll update
 ---
-Djöfull gæti ég einn síðan tuuuborg
+Djöfull gæti ég einn síðan tuuuborg núna.
+Það verður víst að bíða.
+DalliPullaSveittur55.
