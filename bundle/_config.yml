@@ -28,7 +28,7 @@ instagram_username: birkirfanndal
 github_username:  birkir fanndal
 
 # Build settings
-theme: minima
+theme: jekyll-theme-Hacker
 plugins:
   - jekyll-feed
 
